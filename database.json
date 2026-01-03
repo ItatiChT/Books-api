@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "titulo": "Canto a mí mismo",
+    "autor": "Walt Whitman",
+    "año": 1912,
+    "genero": "Poesía",
+    "disponible": false
+  },
+  {
+    "id": 2,
+    "titulo": "Si tuviera que escribirte",
+    "autor": "Alejandra Correa",
+    "año": 2023,
+    "genero": "Poesía",
+    "disponible": false
+  },
+  {
+    "id": 3,
+    "titulo": "Surco abierto surco abierto",
+    "autor": "Liliana Mainardi",
+    "año": 2015,
+    "genero": "Poesía",
+    "disponible": true
+  },
+  {
+    "id": 4,
+    "titulo": "La inmortalidad",
+    "autor": "Milan Kundera",
+    "año": 1990,
+    "genero": "Novela",
+    "disponible": false
+  },
+  {
+    "id": 5,
+    "titulo": "Libro de Prueba Postman",
+    "autor": "Desconocido",
+    "año": 2024,
+    "genero": "Ficcion",
+    "disponible": true
+  }
+]

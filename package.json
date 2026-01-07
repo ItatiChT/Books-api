@@ -5,8 +5,11 @@
   "description": "Parcial ADA",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "test": "echo \"Error: no test specified\" && exit 1",
+  "dev": "nodemon --exec node --loader ts-node/esm src/index.ts",
+  "build": "tsc",
+  "start": "node dist/index.js"
+},
   "keywords": [],
   "author": "",
   "license": "ISC",
